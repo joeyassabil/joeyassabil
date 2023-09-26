@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joeyassabil
-- 👀 I’m interested in Mathematics and Cryptography 
+- 👀 I’m interested in Data, tech and numbers 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects or ML algorithms
 - 📫 How to reach me ...(via email @ joeyassabil@gmail.com)
